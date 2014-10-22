@@ -55,21 +55,21 @@ public class MainActivity extends FragmentActivity
 	 private void btnAction(int action){
 	    	switch(action){
 	    	  case 0: 
-	    		  setButton(bt2,4,15,R.drawable.rounded_celll2); 
-	    	      setButton(bt1,4,15,R.drawable.rounded_celll);
-	    	      setButton(bt3,4,15,R.drawable.rounded_celll);
+	    		  setButton(bt2,4,15,R.drawable.circle2); 
+	    	      setButton(bt1,4,15,R.drawable.circle);
+	    	      setButton(bt3,4,15,R.drawable.circle);
 	    	    
 	    	      break;
 	    	 
-	    	  case 1:  setButton(bt1,4,15,R.drawable.rounded_celll2);
-	    	           setButton(bt2,4,15,R.drawable.rounded_celll); 
-	    	           setButton(bt3,4,15,R.drawable.rounded_celll);
+	    	  case 1:  setButton(bt1,4,15,R.drawable.circle2);
+	    	           setButton(bt2,4,15,R.drawable.circle); 
+	    	           setButton(bt3,4,15,R.drawable.circle);
 	    	           
 	    	           break;
 	    	           
-	    	  case 2:  setButton(bt3,4,15,R.drawable.rounded_celll2);
-	                   setButton(bt2,4,15,R.drawable.rounded_celll); 
-	                   setButton(bt1,4,15,R.drawable.rounded_celll);
+	    	  case 2:  setButton(bt3,4,15,R.drawable.circle2);
+	                   setButton(bt2,4,15,R.drawable.circle); 
+	                   setButton(bt1,4,15,R.drawable.circle);
 	                   
 	                 
 	    	  break;

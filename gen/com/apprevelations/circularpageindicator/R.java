@@ -1077,12 +1077,15 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int first=0x7f020057;
-        public static final int ic_launcher=0x7f020058;
-        public static final int rounded_celll=0x7f020059;
-        public static final int rounded_celll2=0x7f02005a;
-        public static final int second=0x7f02005b;
-        public static final int third=0x7f02005c;
+        public static final int circle=0x7f020057;
+        public static final int circle2=0x7f020058;
+        public static final int first=0x7f020059;
+        public static final int ic_launcher=0x7f02005a;
+        public static final int one=0x7f02005b;
+        public static final int second=0x7f02005c;
+        public static final int third=0x7f02005d;
+        public static final int three=0x7f02005e;
+        public static final int two=0x7f02005f;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1096,7 +1099,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f050042;
+        public static final int action_settings=0x7f050043;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
@@ -1147,6 +1150,7 @@ containing a value of this type.
         public static final int split_action_bar=0x7f05001e;
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
+        public static final int textView1=0x7f050042;
         public static final int title=0x7f05002b;
         public static final int top_action_bar=0x7f050020;
         public static final int up=0x7f050021;
