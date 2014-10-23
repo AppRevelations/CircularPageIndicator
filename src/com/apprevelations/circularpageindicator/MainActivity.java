@@ -15,9 +15,8 @@ public class MainActivity extends FragmentActivity
 	private ViewPager viewPager;
 	private TabsPagerAdapter mAdapter;
 	TextView skip;
-	Button bt1,bt2,bt3,bt4,gpp;
+	Button bt1,bt2,bt3,bt4;
 	
-
 	@SuppressLint("NewApi")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
